@@ -52,7 +52,8 @@ http://forms.viewflow.io/
 
 To checkout and run open source demo version locally, you need to have
 `git <https://git-scm.com/>`_ and `tox
-<https://tox.readthedocs.io/en/latest/>`_ tools installed._
+<https://tox.readthedocs.io/en/latest/>`_ tools installed.  
+
 Windows users should use WSL.
 
 .. code:: bash
